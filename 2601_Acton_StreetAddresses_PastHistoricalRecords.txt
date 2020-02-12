@@ -1,0 +1,1 @@
+StreetAddressID	BCategory	AgencyName	EventDate	EventPrice	PriceDescription	DaysOnMarket
